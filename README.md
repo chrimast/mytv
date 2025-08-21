@@ -17,11 +17,6 @@ LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供
   <img src="https://github.com/user-attachments/assets/df485345-e83b-4564-adf7-0680be92d3c7" alt="项目截图" style="max-width:600px">
 </details>
 
-## 🥇 感谢赞助
-
-- **[YXVM](https://yxvm.com)**  
-- **[ZMTO/VTEXS](https://zmto.com)**
-
 ## 🚀 快速部署
 
 选择以下任一平台，点击一键部署按钮，即可快速创建自己的 LibreTV 实例：
@@ -211,12 +206,3 @@ LibreTV 仅作为视频搜索工具，不存储、上传或分发任何视频内
 
 本项目开发者不对使用本项目产生的任何后果负责。使用本项目时，您必须遵守当地的法律法规。
 
-## 🎉 贡献者福利
-
-活跃贡献者可以在 [Issue #268](https://github.com/LibreSpark/LibreTV/issues/268) 中留言，申请免费上车 1Password Team，享受团队协作工具的便利！
-
-## 💝 支持项目
-
-如果您想支持本项目，可以考虑进行捐款：
-
-[![捐赠](https://img.shields.io/badge/爱心捐赠-无国界医生-1a85ff?style=for-the-badge&logo=medical-cross)](https://www.msf.hk/zh-hant/donate/general?type=one-off)
